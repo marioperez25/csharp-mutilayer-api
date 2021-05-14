@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "DbGRMvUAC9wr4YEjXAz/qppEj94EHWZZ3n0XNAdXZcfEw3YTc8F/7aDoCD67zSVvus29E3xeQe9qpyYPoOVFxA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\mario\\Documents\\csharp-mentoring\\MyMusic.Core\\MyMusic.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mario\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.3\\microsoft.entityframeworkcore.5.0.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "MyMusic.Core depends on Microsoft.EntityFrameworkCore (>= 3.1.15) but Microsoft.EntityFrameworkCore 3.1.15 was not found. An approximate best match of Microsoft.EntityFrameworkCore 5.0.3 was resolved.",
+      "libraryId": "Microsoft.EntityFrameworkCore",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'NETStandard.Library (>= 2.0.3)' for '.NETStandard,Version=v2.0'.",
+      "libraryId": "NETStandard.Library",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    }
+  ]
+}

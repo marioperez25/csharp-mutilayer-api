@@ -1,0 +1,4 @@
+C:\Users\mario\Documents\csharp-mentoring\MyMusic.Core\obj\Debug\net5.0\MyMusic.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mario\Documents\csharp-mentoring\MyMusic.Core\obj\Debug\net5.0\MyMusic.Core.AssemblyInfoInputs.cache
+C:\Users\mario\Documents\csharp-mentoring\MyMusic.Core\obj\Debug\net5.0\MyMusic.Core.AssemblyInfo.cs
+C:\Users\mario\Documents\csharp-mentoring\MyMusic.Core\obj\Debug\net5.0\MyMusic.Core.csproj.CoreCompileInputs.cache
