@@ -11,6 +11,9 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
+using Microsoft.EntityFrameworkCore;
+using MyMusic.Core;
+using MyMusic.Data;
 
 namespace MyMusic.Api
 {
@@ -29,7 +32,7 @@ namespace MyMusic.Api
             services.AddDbContext<MyMusicDbContext>(
                 options => options.UseSqlServer(Configuration.GetConnectionString("Default"), x => x.MigrationsAssembly("MyMusic.Data"))
             );
-            services.AddScoped<IUnitOfWork, UnitOfWork>();
+            services.AddScoped<IUnitOfWork, MyMusic.Data.UnitOfWork>();
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
