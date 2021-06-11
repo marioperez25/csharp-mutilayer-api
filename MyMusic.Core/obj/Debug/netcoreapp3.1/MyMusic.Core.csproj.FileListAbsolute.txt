@@ -1,4 +1,0 @@
-C:\Users\mario\Documents\csharp-mentoring\MyMusic.Core\obj\Debug\netcoreapp3.1\MyMusic.Core.csprojAssemblyReference.cache
-C:\Users\mario\Documents\csharp-mentoring\MyMusic.Core\obj\Debug\netcoreapp3.1\MyMusic.Core.AssemblyInfoInputs.cache
-C:\Users\mario\Documents\csharp-mentoring\MyMusic.Core\obj\Debug\netcoreapp3.1\MyMusic.Core.AssemblyInfo.cs
-C:\Users\mario\Documents\csharp-mentoring\MyMusic.Core\obj\Debug\netcoreapp3.1\MyMusic.Core.csproj.CoreCompileInputs.cache
